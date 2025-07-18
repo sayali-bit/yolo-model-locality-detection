@@ -25,7 +25,7 @@ training-yolo-on-building-only-dataset.ipynb
 The model currently faces generalization challenges due to the xView dataset's varied resolution, angles, and scales compared to the inference data. The model does not perform optimally on images with different distributions than the training set.
 
 ## Future Improvements
-- Acquire a new dataset with distribution similar to the inference images
+Acquire a new dataset with distribution similar to the inference images
 
 ## Running Locally
 1. Clone this repository
