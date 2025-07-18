@@ -16,7 +16,7 @@ Once the preprocessing is one, you may train the model using the following noteb
 2. Train the model using the filtered dataset: The filtered dataset is used to train the YOLOv11 model. Currently two variants of yolov11 are being used: the 20 epoch
 3. Inference: The trained model is used to make predictions on the inference images. The inference images are stored in the inference-images folder.
 
-Observation: xview dataset has much different resolution, angels, and scales. The model does not generalize well to inference data. 
+Observation: xview dataset has different resolution, angels, and scales. The model does not generalize well to inference data. 
 
 Requirement: A new dataset having the same distribution as the inference images.
 
