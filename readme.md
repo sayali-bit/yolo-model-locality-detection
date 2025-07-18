@@ -8,8 +8,8 @@ To preprocess the dataset, run the following notebook:
 xview-dataset-preprocessing.ipynb
 
 For reference,you may refer to the following materials:
-Preprocessing: https://www.kaggle.com/code/ollypowell/xview-dataset-to-yolo-and-coco-format
-Data: https://www.kaggle.com/datasets/ollypowell/xview-yolo-dataset/data
+1. Preprocessing: https://www.kaggle.com/code/ollypowell/xview-dataset-to-yolo-and-coco-format
+2. Data: https://www.kaggle.com/datasets/ollypowell/xview-yolo-dataset/data
 
 Once the preprocessing is one, you may train the model using the following notebook: 
 1. Filtered the dataset to retain only building images/labels : The images and txt files which do not have any buildings are removed from the dataset. 
